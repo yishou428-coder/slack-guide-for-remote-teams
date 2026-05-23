@@ -1,2 +1,16 @@
-# slack-guide-for-remote-teams
-Slack 企业协作工具使用指南，帮助团队提升远程办公效率
+# Slack 企业协作工具使用指南
+
+Slack 是目前全球最主流的企业团队协作平台，支持频道沟通、文件共享、AI助手、视频会议等全功能，是远程办公和跨境团队的首选工具。
+
+## 一、Slack 基础使用教程
+- 如何注册Slack账号并创建Workspace
+- Slack下载：全平台客户端安装方法
+- Slack中文界面设置步骤
+
+## 二、Slack 高效协作技巧
+- 如何创建按项目/部门分类的频道
+- 使用Slack AI助手自动总结消息，提升沟通效率
+- 跨境团队如何用Slack实现无延迟协作
+
+---
+更多Slack使用技巧，可访问：[Slack 官网下载指南](https://slacki.com.cn/)
